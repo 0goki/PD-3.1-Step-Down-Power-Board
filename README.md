@@ -2,7 +2,8 @@
 
 Based on the AP33771C reference design by Diodes Incorporated.
 
-
+![top](images/7f92c21a49472cf7fdae8106c82c658e.png)
+![bottom](images/c70f49ed4f14969e576166d33fc7f2fd.png)
 
 ## PCB Specs
 0.8mm-1.6mm PCB
