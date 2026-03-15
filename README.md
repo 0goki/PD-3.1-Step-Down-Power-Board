@@ -1,4 +1,4 @@
-# AP33771C-USB-PD-ESR-Negotiation-Board
+# AP33771C-USB-PD-EPR-Negotiation-Board
 
 Based on the AP33771C reference design by Diodes Incorporated.
 
