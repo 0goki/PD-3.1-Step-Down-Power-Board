@@ -20,6 +20,7 @@ Based on the AP33771C reference design by Diodes Incorporated.
 > Use 1oz copper for ≤ 1.5A
 
 ## BOM
+[Interactive BOM](https://0goki.github.io/USBPD_ibom.html)
 
 ## Version History
 
