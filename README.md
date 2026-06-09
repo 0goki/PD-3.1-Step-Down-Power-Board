@@ -26,11 +26,13 @@ Based on the AP33771C reference design by Diodes Incorporated.
 
 | Version | EDA | Changelog |
 | ------------- | ------------- | ------------- |
+| 06082026 | KICAD 10.0 | Fixed +5V onboard regulator footprint + pinouts. |
 | 05172026 | KICAD 10.0 | Added +24V and +5V onboard regulator. |
 | 03142026 | KICAD 9.0 | First physical production run with OSHPARK. |
 
 
 | Version | Front | Rear |
 | :---: | :---: | :---: |
+| 06082026 | <img width="1046" height="1776" alt="d771387745b111ca36d8787a300382e8" src="https://github.com/user-attachments/assets/4bc107b6-5e73-44fb-a19d-17c89d782f03" /> | <img width="1046" height="1776" alt="e0f326cdbfaa17185ac203996ee5888f" src="https://github.com/user-attachments/assets/22be03ea-c9a6-4e2a-afe1-423badc6de78" /> |
 | 05172026 | <img width="523" height="888" alt="a8367b54449d9b7e26ba09de61006651" src="https://github.com/user-attachments/assets/b3ecdee0-d114-462e-88e2-dc740d8b9169" /> | <img width="523" height="888" alt="c2d819005a666b65d0351f1a5e810be9" src="https://github.com/user-attachments/assets/41a292f4-efd5-4a2c-8d2c-4fc8cc5aa0ce" /> |
 | 03142026 | ![top](images/7f92c21a49472cf7fdae8106c82c658e.png) |![bottom](images/c70f49ed4f14969e576166d33fc7f2fd.png) |
